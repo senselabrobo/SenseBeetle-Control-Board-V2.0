@@ -1,3 +1,7 @@
+# SenseBeetle Control Board V2.0
+
+English/[中文](https://github.com/senselabrobo/SenseBeetle-Control-Board-V2.0/blob/main/README_CN.md)
+
 # Brief Introduction:
 > This PD board is installed between the robot's on-board computer and the motors. It receives data from the on-board computer (USB VPC data), converts the data to the CAN bus, and communicates with the motors. At the same time, this PD board integrates a PID algorithm, enabling real-time PID control of DJI 2006 motors (it can drive up to 4 channels of DJI 2006 motors). The input voltage of this power distribution board is 24V, and it outputs voltages such as 12V and 5V to supply power to external devices like the on-board lidar. Finally, this PD board is equipped with a soft start function upon power-on. After the power is connected for a certain period of time, the power-on operation will be carried out to prevent issues such as sparking at the moment of power connection.
 >
