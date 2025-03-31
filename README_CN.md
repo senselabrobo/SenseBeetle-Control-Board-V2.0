@@ -1,3 +1,7 @@
+# SenseBeetle Control Board V2.0
+
+[English](https://github.com/senselabrobo/SenseBeetle-Control-Board-V2.0/blob/main/README.md)/中文
+
 # 概述：
 > 本分电板存在于机器人车载电脑与电机之间，接收车载电脑数据（USB VPC）数据，并将数据转换到CAN总线并与电机通讯。同时，该分电板集成了PID算法， 可以对DJI 2006电机进行实时PID控制（最多驱动4路2006电机）。该分电板输入电压24V，输出12V，5V等电压，为车载激光雷达等外设进行供电。最后，该分电板集成了上电缓启动，在接通电源一定时间后，才进行上电操作，防止接通电源瞬间打火等问题。
 >
