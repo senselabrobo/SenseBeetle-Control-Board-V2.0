@@ -14,7 +14,7 @@ Main Functions：
 + When the robot is in operation, it is powered by the TB47 battery through the 24V IN interface. At this time, the motor can be started, and all functions of the entire board can be realized.
 + In the debugging mode, it can be powered only by USB 5V. At this time, the power domain as a whole is not powered, and only the MCU part is supplied with power, which is convenient for debugging. 
 
-![画板]([https://cdn.nlark.com/yuque/0/2025/jpeg/28458595/1742830024031-09bd11e1-73b7-4db8-8a24-970679b1f330.jpeg](https://github.com/senselabrobo/SenseBeetle-Control-Board-V2.0/blob/main/PICTURES/PIC_EN.png))
+![画板](https://github.com/senselabrobo/SenseBeetle-Control-Board-V2.0/blob/main/PICTURES/PIC_EN.png)
 
 ## Functional Diagram：
 ![画板](https://cdn.nlark.com/yuque/0/2025/jpeg/28458595/1742829958540-9143a489-0b69-4ed0-ae6f-734cd532e6ea.jpeg)
