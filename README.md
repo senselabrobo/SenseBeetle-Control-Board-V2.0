@@ -21,7 +21,7 @@ Main Functions：
 ![画板](https://github.com/senselabrobo/SenseBeetle-Control-Board-V2.0/blob/main/PICTURES/PIC_EN.png)
 
 ## Functional Diagram：
-![画板](https://cdn.nlark.com/yuque/0/2025/jpeg/28458595/1742829958540-9143a489-0b69-4ed0-ae6f-734cd532e6ea.jpeg)
+![画板](https://github.com/senselabrobo/SenseBeetle-Control-Board-V2.0/blob/main/PICTURES/Hardware_en.jpg)
 
 ## PCB Design：
 The PCB is designed with a 4-layer board. To maintain signal integrity, the first inner layer serves as the ground plane, and the second inner layer acts as the power layer for 24V and 12V. The outer layers are used for routing signals. 
